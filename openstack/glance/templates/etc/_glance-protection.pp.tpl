@@ -1,5 +1,5 @@
 [.*]
-create = @
+create = context_is_admin
 read = @
-update = @
-delete = @
+update = context_is_admin
+delete = context_is_admin
